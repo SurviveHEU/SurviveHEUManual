@@ -1,3 +1,4 @@
-# SurviveHEUManual
+# 前言
 
-<figure><img src=".gitbook/assets/1664024507-Autumn-Landscape-at-Dusk-Vincent-van-Gogh.jpeg" alt=""><figcaption></figcaption></figure>
+## **欢迎来到贡橙！**
+
